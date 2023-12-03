@@ -21,7 +21,7 @@ const Navbar = () => {
           <li>
             <a
               className="bg-gradient-to-r from-cyan-500 to-teal-500 text-white px-3 py-1 rounded-md ml-8"
-              href="#"
+              href="https://web.telegram.org/k/#@rahmuni"
             >
               Resume
             </a>
